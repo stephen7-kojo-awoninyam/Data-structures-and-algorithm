@@ -1,0 +1,1 @@
+"""Selection by sorting is done by first sorting an unordered list and then finding the ith smallest or largest number"""
